@@ -1,0 +1,5 @@
+require 'ysd_md_searchable'
+require 'ysd_md_searchable_db_built_in'
+require 'ysd_md_searchable_postgres'
+require 'ysd_md_searchable_mysql'
+require 'ysd_md_searchable_sqlite'
